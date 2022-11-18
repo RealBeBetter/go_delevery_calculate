@@ -203,6 +203,6 @@ type Order struct {
 
 func checkErr(err error) {
 	if err != nil {
-		panic(err)
+		fmt.Println("this operation has error, error is", err)
 	}
 }
