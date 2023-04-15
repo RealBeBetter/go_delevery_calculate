@@ -1,3 +1,7 @@
+## 解决问题
+
+![image-20230415173549332](https://cdn.staticaly.com/gh/RealBeBetter/image@master/img/202304151736137.png)
+
 ## 项目运行
 
 1. 执行 git clone 命令将仓库代码 copy 到本地；
@@ -20,4 +24,4 @@ const orderCount = 100000
 
 5. 运行之后可以看到打印输出的结果：
 
-![image.png](https://img-blog.csdnimg.cn/img_convert/d8be488c645dc7322d4947dba6b9f193.png)
+![image.png](https://cdn.staticaly.com/gh/RealBeBetter/image@master/img/202304151736401.png)
