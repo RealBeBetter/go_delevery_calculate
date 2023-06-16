@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/delevery_calculate.iml" filepath="$PROJECT_DIR$/.idea/delevery_calculate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/go_delevery_calculate.iml" filepath="$PROJECT_DIR$/.idea/go_delevery_calculate.iml" />
     </modules>
   </component>
 </project>
